@@ -1,0 +1,10 @@
+1. ¿QUÉ HACE ESTA RUTA?
+- Recibe información: Escucha peticiones de tipo POST (que sirven para enviar datos al servidor).
+- Lee el mensaje: Guarda el texto que el usuario envió en la variable 'mensaje'.
+- Responde: Le contesta al usuario con un mensaje de "Reporte recibido" para confirmar que todo salió bien.
+
+2. ¿PARA QUÉ SIRVE EN UNA APP COMUNITARIA?
+Sirve para que los vecinos puedan comunicarse con la administración. Por ejemplo:
+- Reportar problemas: Avisar que una lámpara de la calle no enciende o que hay basura acumulada.
+- Enviar quejas o sugerencias: Un buzón digital para mejorar el barrio.
+- Alertas de seguridad: Avisar rápidamente sobre una emergencia o actividad sospechosa.

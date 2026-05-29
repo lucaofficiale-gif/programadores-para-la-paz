@@ -1,0 +1,5 @@
+Al ejecutar "http://localhost:30002 en el navegador, la página muestra el texto "Servidor Activo".
+
+Al ejecutar "http://localhost:3000/saludo" en el navegador, la página muestra el texto "Hola Comunidad".
+
+Al ejecutar "http://localhost:3000/mensaje/juan" en el navegador, la página muestra el texto "Hola juan".
