@@ -1,0 +1,10 @@
+La recepción de datos de forma estructurada (como el formato JSON) es fundamental 
+para las plataformas ciudadanas porque permite automatizar el procesamiento de la 
+información. Cuando un ciudadano envía un reporte con campos definidos como "tipo" 
+o "descripción", el sistema backend puede clasificar, priorizar y redirigir la incidencia 
+automáticamente al departamento encargado sin intervención humana manual. Esto agiliza los 
+tiempos de respuesta ante problemas críticos como fallas de iluminación o seguridad. Además, 
+almacenar datos organizados facilita la creación de estadísticas y mapas de calor sobre las 
+problemáticas más comunes del barrio. En conclusión, la información estructurada transforma 
+las quejas individuales en datos accionables que optimizan la gestión pública y mejoran la 
+transparencia comunitaria.

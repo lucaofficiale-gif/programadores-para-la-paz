@@ -1,0 +1,9 @@
+Al enviar la petición POST a http://localhost:3000/registro con el JSON de María, el servidor devuelve un estado HTTP 200 OK y el siguiente objeto JSON:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación: El servidor procesó con éxito los datos enviados en el cuerpo (body) de la solicitud gracias al middleware express.json(), extrajo las variables 'nombre' y 'mensaje', y devolvió una respuesta estructurada confirmando la recepción exacta de la información.
