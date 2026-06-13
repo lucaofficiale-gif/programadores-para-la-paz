@@ -1,0 +1,10 @@
+Es sumamente importante que las comunidades cuenten con plataformas tecnológicas 
+para registrar y consultar incidencias porque democratiza la gestión del entorno 
+compartido. El registro digital le permite a cualquier ciudadano reportar un 
+problema al instante, asegurando que sus demandas queden asentadas formalmente sin
+burocracia. Por otro lado, la opción de consultar la base de datos promueve la 
+transparencia, ya que los vecinos pueden ver si una falla ya fue reportada por 
+alguien más, evitando duplicar esfuerzos. Esto también sirve como un mecanismo de 
+veeduría ciudadana para evaluar el tiempo de respuesta de las administraciones encargadas. 
+En definitiva, el almacenamiento y consulta de reportes empodera a la comunidad, centraliza 
+la comunicación y fomenta una participación activa y organizada para el beneficio del barrio.

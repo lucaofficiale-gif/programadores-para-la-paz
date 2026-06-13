@@ -1,0 +1,11 @@
+Al consultar la ruta GET http://localhost:3000/reportes después de haber realizado la petición POST, el servidor devuelve un arreglo JSON que contiene el reporte registrado con su respectivo "id" autoincremental de esta manera:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Dano en alumbrado publico"
+  }
+]
+
+Explicación: Esto sucede porque los datos se están almacenando de forma dinámica en la variable global 'reportes' dentro de la memoria RAM del servidor. Al hacer la petición GET, el servidor responde con el estado actual de esa lista.
