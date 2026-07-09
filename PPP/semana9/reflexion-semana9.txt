@@ -1,0 +1,9 @@
+La estabilidad y seguridad de un servidor son fundamentales en plataformas comunitarias porque de ellas depende la 
+confianza y utilidad real del ecosistema participativo. Si un servidor se cae constantemente por falta de monitoreo 
+o mala gestión de procesos, los ciudadanos perderán el interés en reportar incidencias locales o consultar alertas 
+debido a la ineficacia del canal digital. Desde el punto de vista de la seguridad, estas plataformas manejan datos 
+sensibles de los vecinos, como nombres, correos o reportes de infraestructura vulnerable en sus vecindarios, información 
+que si es interceptada o vulnerada puede poner en riesgo la integridad de la comunidad. Un servidor robusto garantiza 
+que el servicio esté disponible de forma ininterrumpida ante emergencias, proteja la privacidad de los usuarios contra 
+ataques maliciosos y asegure que las herramientas tecnológicas funcionen como un puente democrático transparente, 
+eficiente y confiable entre los ciudadanos y sus administradores locales.

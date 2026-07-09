@@ -1,0 +1,17 @@
+BITÁCORA DE EJECUCIÓN DEL SERVIDOR
+
+1. ¿QUÉ OCURRE CUANDO EJECUTAS NODE SERVER.JS?
+Node.js toma el archivo de JavaScript, compila el entorno de Express y levanta un proceso continuo en segundo plano 
+que se asocia al puerto 3000 de la máquina, quedando en estado de "escucha" activa.
+
+2. ¿QUÉ MENSAJE APARECE EN LA TERMINAL?
+Aparece el mensaje programado en el callback del listen:
+"Servidor ejecutándose en puerto 3000"
+
+3. ¿QUÉ SUCEDE CUANDO VISITAS LA RUTA /ESTADO?
+El navegador envía una petición de tipo GET. El servidor intercepta esa ruta específica y responde enviando un objeto 
+estructurado en formato JSON con la información del servicio:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
