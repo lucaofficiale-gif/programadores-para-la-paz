@@ -1,0 +1,20 @@
+PLANIFICACIÓN DE LA ITERACIÓN
+
+1. ¿QUÉ 2 TAREAS DEL BACKLOG HARÍAS PRIMERO?
+Haría primero la tarea 1 (Permitir al ciudadano registrar la incidencia) y la tarea 2 (Permitir al equipo consultar la 
+lista de reportes).
+
+2. ¿POR QUÉ SON LAS MÁS IMPORTANTES?
+Porque constituyen el núcleo de la aplicación (el Producto Mínimo Viable). Sin la capacidad de guardar datos y de 
+leerlos, la base de datos y el servidor no sirven de nada. La alerta de Telegram (tarea 3) es un canal de soporte muy 
+útil, pero secundario; no tiene sentido notificar algo si el sistema base aún no puede almacenar ni listar 
+la información.
+
+3. DEFINICIÓN DE TERMINADO (DEFINITION OF DONE - DoD)
+Para que una tarea se considere 100% "terminada", debe cumplir estrictamente estos 3 criterios de aceptación:
+- Criterio 1 (Funcionalidad): El código corre sin errores y la ruta de la API responde con el estado HTTP 
+esperado (200 OK).
+- Criterio 2 (Prueba de integración): Ha sido probada con éxito de forma local enviando datos reales mediante 
+peticiones por consola (curl).
+- Criterio 3 (Trazabilidad y respaldo): El archivo modificado ha sido guardado, confirmado y publicado en el repositorio 
+remoto mediante Git (git push).

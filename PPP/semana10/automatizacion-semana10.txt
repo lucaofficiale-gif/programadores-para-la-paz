@@ -1,0 +1,21 @@
+DISEÑO DE AUTOMATIZACIÓN DE SEGUIMIENTO (n8n + TELEGRAM)
+
+1. ¿QUÉ EVENTO ACTIVA EL FLUJO?
+El flujo se activa mediante un nodo Webhook de n8n. Cada vez que nuestra API de Express procese con éxito la ruta 
+POST '/reportes' o '/incidencia', enviará una señal de alerta automática a la URL de ese webhook.
+
+2. ¿QUÉ MENSAJE SE ENVIARÍA A TELEGRAM?
+Se enviaría un mensaje genérico al canal de coordinación comunitaria:
+"¡Atención! Se ha registrado una nueva incidencia en la plataforma. Por favor, ingresa al sistema de administración 
+para revisar los detalles y asignar un encargado."
+
+3. ¿QUÉ INFORMACIÓN NO DEBERÍA ENVIARSE POR SEGURIDAD?
+Bajo ninguna circunstancia se deben enviar datos confidenciales ni sensibles de los usuarios a través del chat 
+de Telegram. Esto incluye:
+
+- Nombres completos o identificaciones de los ciudadanos.
+- Direcciones exactas, números de teléfono o mapas de ubicación privada.
+- Credenciales, tokens, contraseñas o datos técnicos del servidor.
+
+Telegram se usa únicamente como un megáfono de aviso general; la información detallada debe permanecer segura en el 
+servidor principal.

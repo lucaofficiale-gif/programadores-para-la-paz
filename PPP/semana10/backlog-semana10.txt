@@ -1,0 +1,13 @@
+BACKLOG DE PRODUCTO - PLATAFORMA COMUNITARIA
+
+[PRIORIDAD ALTA - Esencial para que el sistema tenga sentido]
+1. Como ciudadano quiero registrar una incidencia (tipo y descripción) para dejar evidencia formal del caso y que la 
+administración lo conozca.
+
+[PRIORIDAD MEDIA - Mejora la gestión interna y la revisión]
+2. Como miembro del equipo de soporte quiero consultar todos los reportes registrados para hacerles seguimiento y 
+cambiar su estado.
+
+[PRIORIDAD BAJA - Es un canal de apoyo complementario de notificación]
+3. Como coordinador del barrio quiero recibir una alerta genérica en Telegram cada vez que se cree un nuevo reporte 
+para revisarlo rápidamente en el sistema principal.

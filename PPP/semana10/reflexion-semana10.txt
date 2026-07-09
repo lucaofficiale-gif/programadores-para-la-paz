@@ -1,0 +1,9 @@
+Las metodologías ágiles, junto con la automatización y canales como Telegram, transforman radicalmente la gestión de 
+proyectos participativos al estructurar el caos inherente de las comunidades. El uso de un backlog e historias de 
+usuario permite priorizar las problemáticas más críticas del barrio, evitando que el equipo de desarrollo se sature 
+intentando resolver todo al mismo tiempo. Al integrar n8n, se reduce la carga operativa manual eliminando la necesidad 
+de revisar constantemente la base de datos, ya que el sistema avisa de forma instantánea cuando surge un evento 
+importante. Por su parte, herramientas de comunicación directa y masiva como Telegram actúan como un puente de 
+transparencia inmediato, manteniendo informada a la ciudadanía sin comprometer la seguridad de datos críticos. En 
+conclusión, esta combinación tecnológica asegura un desarrollo de software ordenado, fomenta la veeduría transparente y 
+genera respuestas ágiles que sostienen el compromiso y la confianza de los ciudadanos en los procesos digitales.
