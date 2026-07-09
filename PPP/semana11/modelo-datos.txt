@@ -1,0 +1,25 @@
+DISEÑO DEL MODELO DE DATOS - PLATAFORMA DE CAUSAS
+
+Entidad: Causa
+Campos principales:
+- id (Número, Clave primaria autoincremental)
+- titulo (Texto, Nombre de la propuesta comunitaria)
+- descripcion (Texto largo, Detalles del proyecto o necesidad)
+- fecha_creacion (Fecha, Cuándo se registró la propuesta)
+- estado (Texto, Valores como "Activa", "En progreso" o "Finalizada")
+
+Propósito:
+Almacenar de forma organizada todas las iniciativas, proyectos o reclamos colectivos impulsados por los vecinos que 
+serán visibles públicamente en la plataforma.
+
+
+Entidad: Apoyo
+Campos principales:
+- id (Número, Clave primaria autoincremental)
+- causa_id (Número, Clave foránea que conecta con la entidad Causa)
+- usuario_anonimizado (Texto, Identificador único encriptado del votante)
+- fecha_voto (Fecha y hora exactas del registro)
+
+Propósito:
+Registrar y contabilizar cuantitativamente el respaldo digital que recibe cada causa comunitaria, asegurando la 
+trazabilidad de la votación popular y previniendo la duplicidad de apoyos por un mismo usuario.

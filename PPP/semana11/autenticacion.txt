@@ -1,0 +1,9 @@
+SEGURIDAD Y AUTENTICACIÓN DEL SISTEMA
+
+El login es el proceso técnico que permite validar la identidad de un usuario mediante credenciales seguras (como 
+correo y contraseña cifrada) antes de concederle privilegios dentro de la plataforma. Ciertas rutas del backend, como 
+la eliminación o edición de causas, deben estar estrictamente protegidas para impedir que atacantes maliciosos o 
+usuarios no autorizados alteren malintencionadamente los datos de la comunidad. En una plataforma ciudadana es crucial 
+no exponer públicamente bajo ninguna circunstancia información sensible como contraseñas, documentos de identidad, 
+teléfonos, direcciones físicas o tokens de APIs, protegiendo así a los vecinos del acoso, la suplantación de identidad 
+o filtraciones masivas de datos.

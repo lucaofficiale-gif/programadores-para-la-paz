@@ -1,0 +1,17 @@
+DISEÑO DE INTERFAZ DE USUARIO (UX/UI)
+
+1. Vista de causas disponibles:
+Sección principal de la página web configurada como un muro o cuadrícula de tarjetas (cards). Cada tarjeta mostrará de 
+forma clara el título de la causa, una descripción resumida, la fecha de publicación y un estado visual.
+
+2. Formulario para crear una causa:
+Bloque accesible mediante un botón "Nueva Causa". Contendrá campos de texto limpios para ingresar el título y la 
+descripción detallada. Al presionar "Enviar", se conectará internamente con la ruta POST del servidor.
+
+3. Botón para apoyar una causa y contador:
+Cada tarjeta de causa incluirá un botón interactivo (por ejemplo, un icono de corazón o pulgar arriba). Al lado del 
+botón, un contador numérico dinámico se actualizará en tiempo real mostrando cuántos apoyos válidos acumula 
+la iniciativa.
+
+Nota de diseño: La interfaz mantendrá un enfoque minimalista e intuitivo, garantizando que el diseño visual oculte 
+cualquier dato de identificación personal de los votantes para preservar el anonimato del apoyo ciudadano.

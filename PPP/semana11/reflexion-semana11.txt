@@ -1,0 +1,10 @@
+Una plataforma tecnológica enfocada en la participación ciudadana requiere de manera obligatoria una base de datos, 
+autenticación y protección estricta de información para garantizar la legitimidad y viabilidad del proceso democrático. 
+La base de datos asegura que las propuestas comunitarias y sus respectivas interacciones no se pierdan, otorgando 
+persistencia y orden a las solicitudes vecinales. Por su parte, la autenticación actúa como un filtro democrático 
+indispensable, ya que valida que quienes votan o proponen sean usuarios reales pertenecientes a la comunidad, evitando 
+fraudes masivos, spam o bots que manipulen la opinión pública. Finalmente, la protección de datos es un deber ético y 
+legal fundamental; si los ciudadanos sienten que sus datos personales o posturas están expuestos al escrutinio público 
+indebido, se inhibirán de participar por miedo a represalias o filtraciones. En conclusión, estas tres capas técnicas 
+construyen un entorno confiable, transparente y seguro que empodera la veeduría y sostiene el tejido social en el 
+entorno digital.
