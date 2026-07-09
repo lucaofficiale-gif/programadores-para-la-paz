@@ -1,0 +1,14 @@
+INFORMACIÓN DEL SISTEMA (UNAME Y WHOAMI)
+
+1. ¿QUÉ HACE CADA COMANDO?
+- uname -a: Muestra la información completa del sistema operativo y del núcleo (kernel) de Linux. Incluye el nombre 
+del sistema, la arquitectura del procesador (por ejemplo, x86_64), la versión del sistema operativo y la fecha de 
+compilación.
+
+- whoami: Muestra el nombre exacto del usuario actual que tiene la sesión activa en la terminal.
+
+2. ¿POR QUÉ ES ÚTIL EN LA ADMINISTRACIÓN DE UN SERVIDOR?
+Es crucial porque antes de instalar cualquier software, base de datos o parche de seguridad, necesitas saber con 
+certeza el sistema operativo exacto y su arquitectura para evitar incompatibilidades. Además, saber qué usuario 
+eres ("whoami") te permite entender si tienes los permisos de administrador (root) necesarios para modificar archivos
+ críticos del sistema o si estás operando con restricciones.

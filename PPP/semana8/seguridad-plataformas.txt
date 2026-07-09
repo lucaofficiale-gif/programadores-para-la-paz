@@ -1,0 +1,15 @@
+5 PRÁCTICAS DE SEGURIDAD EN PLATAFORMAS COMUNITARIAS
+
+1. No exponer datos personales: Ocultar correos, teléfonos o direcciones de los vecinos para evitar su uso
+ malintencionado.
+
+2. Proteger credenciales: Forzar el uso de contraseñas seguras y encriptar los accesos en la base de datos.
+
+3. Usar conexiones seguras: Implementar certificados SSL (HTTPS) para que los datos viajen cifrados entre el 
+ciudadano y el servidor.
+
+4. Registrar accesos: Mantener un historial (logs) de quién entra o modifica el sistema para detectar 
+comportamientos sospechosos.
+
+5. Limitar acceso a información sensible: Restringir de forma estricta los roles, asegurando que solo los 
+administradores autorizados puedan ver datos privados.

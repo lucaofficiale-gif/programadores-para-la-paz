@@ -1,0 +1,9 @@
+La seguridad digital es un pilar indispensable en las plataformas comunitarias porque resguarda la confianza 
+de los ciudadanos en los procesos participativos. Cuando los vecinos denuncian incidencias locales o comparten 
+propuestas, vulnerar su privacidad exponiendo sus nombres o ubicaciones puede acarrear riesgos reales para su 
+integridad física o social. Además, un ataque cibernético que altere o elimine la información recopilada destruiría
+la transparencia del proceso, desalentando por completo la participación comunitaria en el entorno digital. Proteger 
+estas herramientas mediante credenciales seguras y servidores robustos evita la manipulación externa de los datos 
+recopilados de forma legítima. En conclusión, garantizar un entorno digital seguro y privado no es solo una necesidad 
+técnica, sino un compromiso ético para salvaguardar el tejido social, asegurar el éxito de la plataforma y fomentar 
+una ciudadanía activa.
