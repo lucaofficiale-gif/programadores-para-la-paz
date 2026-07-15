@@ -1,0 +1,21 @@
+FLUJO DE TRABAJO: SISTEMA "PETICIÓN EN 3 CLICS"
+
+Paso 1. (Creación): Un ciudadano abre la plataforma web, llena un formulario simple
+e introduce un título y una descripción para proponer una nueva causa comunitaria.
+
+Paso 2. (Persistencia): El servidor de Node.js recibe la petición POST y registra 
+la nueva causa dentro de la base de datos de manera organizada.
+
+Paso 3. (Participación): Otros ciudadanos visitan la plataforma, leen la causa y 
+deciden respaldarla haciendo un solo clic en el botón de "Apoyar". Cada clic 
+genera un registro único de apoyo vinculado a esa causa en la base de datos.
+
+Paso 4. (Consolidación cuantitativa): El servidor consulta la base de datos en 
+tiempo real, suma el número total de apoyos que ha recibido la propuesta y 
+actualiza dinámicamente un contador público en la interfaz de usuario.
+
+Paso 5. (Formalización en PDF): Una vez que la causa alcanza un umbral o los 
+proponentes lo solicitan, el sistema ejecuta una función que toma el título, 
+la descripción y el contador total de firmas para compilar un documento PDF 
+formal y descargable, listo para ser presentado ante la junta o entidad 
+administrativa local.

@@ -1,0 +1,25 @@
+DISEÑO DE MODELO DE DATOS - RETO FINAL
+
+Entidad: Causa
+Campos principales:
+- id (Número, Llave primaria única)
+- titulo (Texto corto, Nombre sintético de la petición)
+- descripcion (Texto largo, Justificación y detalles del problema)
+- fecha (Fecha y hora de creación automática)
+
+Propósito:
+Almacenar de forma persistente cada una de las peticiones o causas que los vecinos 
+del barrio o comunidad deciden subir a la plataforma digital para buscar el 
+respaldo colectivo.
+
+
+Entidad: Apoyo
+Campos principales:
+- id (Número, Llave primaria única)
+- causa_id (Número, Llave foránea que asocia el apoyo con una Causa específica)
+- nombre_anonimizado (Texto o ID encriptado, Firma del usuario que respalda)
+- fecha (Fecha y hora en la que se hizo clic en apoyar)
+
+Propósito:
+Registrar y totalizar cada voto o firma virtual que se asocie a una causa, sirviendo 
+de respaldo cuantitativo para comprobar la aprobación popular del documento formal.

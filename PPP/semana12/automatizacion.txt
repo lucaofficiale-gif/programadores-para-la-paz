@@ -1,0 +1,21 @@
+DISEÑO DE AUTOMATIZACIÓN DE CIERRE
+
+1. ¿QUÉ EVENTO ACTIVA LA AUTOMATIZACIÓN?
+Un evento de tipo Webhook en n8n que se activa de forma automática en el servidor 
+Node.js en cuanto una causa comunitaria supera un umbral mínimo preestablecido de 
+apoyos en la base de datos.
+
+2. ¿QUÉ MENSAJE SE ENVÍA?
+Se despacha un mensaje de alerta masiva al canal informativo de Telegram:
+"¡Meta alcanzada! La causa comunitaria número [ID_CAUSA] ha recolectado las 
+firmas digitales necesarias. El documento formal de petición ha sido generado en 
+PDF y está listo para ser descargado y radicado."
+
+3. ¿QUÉ INFORMACIÓN NO DEBE ENVIARSE POR SEGURIDAD?
+Para resguardar el anonimato del voto y la confidencialidad de la comunidad, el 
+mensaje NO debe contener:
+- Los nombres completos de los firmantes.
+- Correos electrónicos, identificaciones (cédulas), o números telefónicos de los 
+participantes.
+- Datos técnicos del servidor, API keys o rutas de bases de datos internas 
+expuestas en el texto.

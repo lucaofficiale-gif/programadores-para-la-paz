@@ -1,0 +1,14 @@
+Durante este curso he aprendido que la tecnología, cuando se diseña bajo enfoques 
+éticos y responsables, es un catalizador extraordinario para fortalecer los 
+procesos democráticos y la organización en los barrios. El desarrollo de 
+herramientas como "Petición en 3 Clics" demuestra que el backend, las bases de 
+datos y la automatización no son meros conceptos corporativos, sino puentes 
+prácticos para empoderar a las comunidades y facilitar la veeduría ciudadana. 
+Aprendí que centralizar la recolección de firmas virtuales agiliza procesos 
+burocráticos y que el software libre, como Linux y n8n, abarata costos de 
+implementación para colectivos de base. Sin embargo, el aprendizaje más valioso 
+es que un programador de software con enfoque social debe priorizar siempre la 
+privacidad de los usuarios. Proteger la identidad de los vecinos de forma robusta 
+a través de la autenticación de usuarios y la minimización de datos sensibles no 
+es un añadido opcional; es el requisito indispensable que sostiene la confianza 
+de los ciudadanos en la plataforma.
